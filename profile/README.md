@@ -1,3 +1,3 @@
 # VolframLinux
 
-Linux distribution for the ```x86_64``` architecture based on **glibc, coreutils, systemd/openrc, bash, lithium.**
+Linux distribution for the ```x86_64``` architecture based on **glibc, uutils-coreutils, uutils-util-linux, systemd/openrc, bash, lithium.**
